@@ -54,10 +54,24 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+a {
+    display: flex;
+    margin: 1.25rem auto;
+    height: 2.5rem;
+    width: 15.87rem;
+    border: none;
+    border-radius: 5px;
+    background: #7f00ff;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    align-items: center;justify-content: center;
+}
+
+a:hover {
     opacity: 0.8;
 }
 
-button:active {
+a:active {
     opacity: 0.6;
 }

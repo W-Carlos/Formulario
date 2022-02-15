@@ -14,7 +14,7 @@ body {
 form, div {
     width: 40%;
     padding: 1.25rem;
-    min-width: 21.87rem;
+    min-width: 21.875rem;
     background: white;
     border-radius: 5px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
@@ -27,7 +27,7 @@ h1, p {
 }
 
 input, textarea {
-    min-width: 21.87rem;
+    width: 20rem;
     display: block;
     margin: 0 auto;
     border-radius: 5px;
@@ -46,7 +46,7 @@ button {
     display: block;
     margin: 1.25rem auto;
     height: 2.5rem;
-    min-width: 21.87rem;
+    width: 20rem;
     border: none;
     border-radius: 5px;
     background: #7f00ff;
