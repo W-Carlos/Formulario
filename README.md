@@ -3,6 +3,8 @@
 > ## 💻 Projeto
 Este projeto é um formulário simples de contato. Nele o usuário pode colocar o seu nome, email e uma mensagem. As informações serão enviadas para um email de contato.
 
+Teste o projeto acessando esse link: <a href="https://formulario-page-dv.netlify.app/" target="_blank">https://formulario-page-dv.netlify.app/</a>J
+
 > ## 📸 Demo
 <img src="./assets/formulario.gif">
 
